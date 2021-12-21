@@ -1,3 +1,3 @@
 # Astroid-Game
 Astroid Game
-![](Astroid Game.png)
+![](asteroids games.png)
