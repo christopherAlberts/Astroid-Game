@@ -2,4 +2,4 @@
 Astroid Game
 
 
-![]("asteroids games.png")
+![Alt text]("asteroids games.png")
